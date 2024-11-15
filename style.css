@@ -1,0 +1,61 @@
+table,
+tr,
+td,
+th {
+  border: 1.5px solid gray;
+  border-collapse: collapse;text-align: center;
+}
+#fdf {
+  background-color: yellow;
+  color: black;text-align: center;
+}
+#ad {
+  background-color: yellow;
+  color: black;text-align: center;
+}
+#as {
+  background-color: yellow;
+  color: black;text-align: center;
+}
+#mn {
+  background-color: yellow;
+  color: black;text-align: center;
+}
+#sd {
+  background-color: red;
+  color: white;text-align: center;
+}
+#vb {
+  background-color: red;
+  color: white;text-align: center;
+}
+#nm {
+  background-color: red;
+  color: white;text-align: center;
+}
+#lk {
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+#iy {
+  background-color: red;
+  color: white;text-align: center;
+}
+#it {
+  background-color: red;
+  color: white;text-align: center;
+}
+#fd {
+  background-color: green;
+  color: white;text-align: center;
+}
+#il {
+  background-color: green;
+  color: white;text-align: center;
+}
+
+#jh {
+  background-color: green;
+  color: white;text-align: center;
+}
